@@ -1,5 +1,3 @@
-**`README.md` ფაილი თქვენი პროექტისთვის:**
-
 ```markdown
 # Mini App
 
